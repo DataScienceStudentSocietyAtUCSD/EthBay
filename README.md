@@ -53,3 +53,6 @@ https://react-bootstrap.github.io/getting-started/introduction  (stylesheet link
 # Update Stylesheet from React Bootstrap in `public/index.html`
 
 `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstra.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">`
+
+# Host on Firebase
+https://medium.freecodecamp.org/react-and-firebase-are-all-you-need-to-host-your-web-apps-f7ab55919f53
