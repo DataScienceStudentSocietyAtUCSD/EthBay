@@ -1,9 +1,11 @@
 # Based on the bestselling book "Beginning Ethereum & Solidity with React" by Greg Lim
 <a target="_blank" href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=weblog0c7-20&keywords=Beginning Ethereum Solidity with React&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=59c170402f3d10b595825e5bce9b0184">Beginning Ethereum Solidity with React</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=weblog0c7-20&l=ur2&o=1&camp=1789" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-# EthBay
+# EthBay Inspiration Project Github
 https://github.com/greglim81/solidity-chapter6
 
+# Infura API
+https://rinkeby.infura.io/v3/...
 
 # npm commands
 (sudo) `npm install -g create-react-app`
