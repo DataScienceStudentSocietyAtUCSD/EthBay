@@ -48,13 +48,18 @@ https://rinkeby.infura.io/v3/...
 `npm install --save solc`
 
 # Deploy on Firebase
+
 + https://medium.freecodecamp.org/react-and-firebase-are-all-you-need-to-host-your-web-apps-f7ab55919f53
 + https://stackoverflow.com/questions/52177222/blank-page-after-successful-firebase-deployment
 
 `npm install -g firebase-tools`
+
 `firebase login`
+
 `firebase init`
+
 `firebase deploy`
+
 `npm run build`
  
  
